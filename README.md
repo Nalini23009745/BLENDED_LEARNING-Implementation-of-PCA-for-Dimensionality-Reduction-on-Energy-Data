@@ -72,6 +72,8 @@ RegisterNumber:
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/db9bebad-0da7-4632-88b2-e76e55cd598a)
+![image](https://github.com/user-attachments/assets/781d621c-452d-4592-a41f-4039c6ec8d65)
+
 
 
 ## Result:
