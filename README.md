@@ -71,7 +71,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://github.com/user-attachments/assets/db9bebad-0da7-4632-88b2-e76e55cd598a)
 
 
 ## Result:
